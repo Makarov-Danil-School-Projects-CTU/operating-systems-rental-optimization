@@ -1,3 +1,5 @@
+Keywords: C++, Multithreading, Mutex, Concurrency issues, Optimization task
+
 📝 Task Objective
 
 Your task is to implement a set of classes that will optimize the profit for rental services.
